@@ -67,13 +67,13 @@ button {
 }
 
 button:hover {
-  opacity: 0.3;
+  opacity: 0.8;
 }*/
 
 
 
 
-/* * {
+ /* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -118,7 +118,7 @@ body {
 .input-group label {
   font-size: 14px;
   margin-bottom: 5px;
-  display: block;
+   display: block; 
 }
 
 .input-group input {
@@ -171,9 +171,7 @@ button:hover {
 
 
 
-
-
-/* * {
+ /* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -272,9 +270,7 @@ footer {
 
 
 
-
-
-/* * {
+ /* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -313,10 +309,6 @@ h1 {
 .image:hover img {
   transform: scale(1.1);
 }*/
-
-
-
-
 
 
 
@@ -404,10 +396,7 @@ button:hover {
 
 
 
-
-
-
-/* * {
+ /* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
